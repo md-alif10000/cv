@@ -331,6 +331,11 @@ section.skills .content .left .timeline__wrapper {
   border-left: 2px dotted var(--dark-blue);
 }
 
+section.skills .right{
+  padding: 20px;
+}
+
+
 section.skills .right .skills__wrapper .skill_box h4 {
   color: var(--ternary);
   font-size: 14px;
